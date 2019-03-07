@@ -1,1 +1,3 @@
 Hello Sample Text File
+
+Second Line in the file
