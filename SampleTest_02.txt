@@ -1,5 +1,10 @@
 Sample Text File_02
+<<<<<<< HEAD
 
 I am A. Adding new line to SampleTest_02
 
 Working on  a new change
+=======
+Here is an important bug fix.
+I am A. Adding new line to SampleTest_02
+>>>>>>> 66b2dac61636bdee620137385d845cfc028d3319
